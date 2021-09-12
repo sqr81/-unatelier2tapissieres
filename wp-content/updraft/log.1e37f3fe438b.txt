@@ -1,0 +1,705 @@
+0000.002 (0) Opened log file at time: Fri, 16 Apr 2021 19:51:41 +0000 on http://localhost/unatelier2tapissieres
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.5M | 6M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.014 (0) Free space on disk containing Updraft's temporary directory: 916482.7 MB
+0000.024 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.030 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.035 (0) Set semaphore last lock (fd) time to 2021-04-16 19:51:41
+0000.037 (0) Semaphore lock (fd) complete
+0000.047 (0) Backup run: resumption=0, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (0s ago), job type=backup
+0000.052 (0) Scheduling a resumption (1) after 300 seconds (1618603001) in case this run gets aborted
+0000.117 (0) Checking if we have a zip executable available
+0000.123 (0) Creation of backups of directories: beginning
+0000.133 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.005 (0) Total entities for the zip file: 823 directories, 3919 files (0 skipped as non-modified), 77.7 MB
+0004.028 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.193 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 100 files added (on-disk size: 141.9 KB)
+0004.228 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 200 files added (on-disk size: 141.9 KB)
+0004.265 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 300 files added (on-disk size: 141.9 KB)
+0004.302 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 400 files added (on-disk size: 141.9 KB)
+0004.340 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 500 files added (on-disk size: 141.9 KB)
+0004.375 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 600 files added (on-disk size: 141.9 KB)
+0004.386 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.7 MB, 3919 files batched, 626 (627) added so far); re-opening (prior size: 141.9 KB)
+0009.209 (0) A useful amount of data was added after this amount of zip processing: 5.7 s (normalised: 5.5 s, rate: 4617.3 KB/s)
+0009.213 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.6894710063934, normalised_time=5.5443922078177, max_time=9.2092850208282, data points known=1, old_max_bytes=26214400, new_max_bytes=28368555)
+0009.259 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 700 files added (on-disk size: 6490 KB)
+0009.294 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 800 files added (on-disk size: 6490 KB)
+0009.326 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 900 files added (on-disk size: 6490 KB)
+0009.359 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1000 files added (on-disk size: 6490 KB)
+0009.395 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1100 files added (on-disk size: 6490 KB)
+0009.430 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1200 files added (on-disk size: 6490 KB)
+0009.464 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1300 files added (on-disk size: 6490 KB)
+0009.499 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1400 files added (on-disk size: 6490 KB)
+0009.532 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1500 files added (on-disk size: 6490 KB)
+0009.565 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1600 files added (on-disk size: 6490 KB)
+0009.575 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.8 MB, 3919 files batched, 1001 (1628) added so far); re-opening (prior size: 6490 KB)
+0012.579 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1700 files added (on-disk size: 13979.7 KB)
+0012.610 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1800 files added (on-disk size: 13979.7 KB)
+0012.644 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 1900 files added (on-disk size: 13979.7 KB)
+0012.677 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2000 files added (on-disk size: 13979.7 KB)
+0012.711 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2100 files added (on-disk size: 13979.7 KB)
+0012.760 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2200 files added (on-disk size: 13979.7 KB)
+0012.794 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2300 files added (on-disk size: 13979.7 KB)
+0012.828 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2400 files added (on-disk size: 13979.7 KB)
+0012.862 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2500 files added (on-disk size: 13979.7 KB)
+0012.896 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2600 files added (on-disk size: 13979.7 KB)
+0012.908 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.4 MB, 3919 files batched, 1001 (2629) added so far); re-opening (prior size: 13979.7 KB)
+0017.850 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2700 files added (on-disk size: 21076.6 KB)
+0017.884 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2800 files added (on-disk size: 21076.6 KB)
+0017.919 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 2900 files added (on-disk size: 21076.6 KB)
+0017.955 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3000 files added (on-disk size: 21076.6 KB)
+0017.989 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3100 files added (on-disk size: 21076.6 KB)
+0018.022 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3200 files added (on-disk size: 21076.6 KB)
+0018.054 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3300 files added (on-disk size: 21076.6 KB)
+0018.091 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3400 files added (on-disk size: 21076.6 KB)
+0018.127 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3500 files added (on-disk size: 21076.6 KB)
+0018.161 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3600 files added (on-disk size: 21076.6 KB)
+0018.173 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.6 MB, 3919 files batched, 1001 (3630) added so far); re-opening (prior size: 21076.6 KB)
+0023.589 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3700 files added (on-disk size: 27437.6 KB)
+0023.624 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3800 files added (on-disk size: 27437.6 KB)
+0023.659 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip.tmp: 3900 files added (on-disk size: 27437.6 KB)
+0026.695 (0) Created plugins zip (0) - 28193.5 KB in 26.6 s (1061.7 KB/s) (sha1: 8e1d0461d8e9e0db63b75fc582cd1bdca4f1c851, sha256: 24239e592ede3e8952f7a9a13bc892f2a9235e0591630255294d1d471633600a)
+0026.704 (0) Beginning creation of dump of themes (split every: 400 MB)
+0027.191 (0) Total entities for the zip file: 114 directories, 552 files (0 skipped as non-modified), 9.6 MB
+0027.225 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0027.259 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.300 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.334 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0027.366 (0) Zip: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0029.160 (0) Created themes zip (0) - 2024.5 KB in 2.4 s (826.4 KB/s) (sha1: 378977888d47ec8bef1b8048b24c3dca0aa7eeb0, sha256: 3be71cdf2377e0c3a1e691e112958fd45fe36c9953222ec750e2fd1c59b28338)
+0029.168 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0029.170 (0) Looking for candidates to backup in: D:\wamp64\www\unatelier2tapissieres/wp-content/uploads
+0029.172 (0) finding files: 2021: adding to list (1)
+0029.174 (0) finding files: elementor: adding to list (2)
+0029.176 (0) finding files: wpforms: adding to list (3)
+0029.178 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0029.258 (0) Total entities for the zip file: 7 directories, 92 files (0 skipped as non-modified), 6 MB
+0030.688 (0) Created uploads zip (0) - 6095.2 KB in 1.5 s (4052.3 KB/s) (sha1: 36fe2593e853593fd989ac8a994d2494d248f933, sha256: 5895dded68d9b2104009447aaf66b2804d0ee97613f93cf115fd8add061192aa)
+0030.696 (0) Beginning backup of other directories found in the content directory (index: 0)
+0030.698 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0030.700 (0) Looking for candidates to backup in: D:\wamp64\www\unatelier2tapissieres/wp-content
+0030.703 (0) finding files: index.php: adding to list (1)
+0030.705 (0) finding files: languages: adding to list (2)
+0030.707 (0) finding files: plugins: skipping: this is the plugins directory
+0030.709 (0) finding files: themes: skipping: this is the themes directory
+0030.711 (0) finding files: updraft: skipping: this is the updraft directory
+0030.712 (0) finding files: upgrade: skipping: excluded by options
+0030.714 (0) finding files: uploads: skipping: this is the uploads directory
+0030.769 (0) Total entities for the zip file: 3 directories, 90 files (0 skipped as non-modified), 3.8 MB
+0032.364 (0) Created others zip (0) - 1125.5 KB in 1.6 s (685.2 KB/s) (sha1: babb6b39497c9e16a718a74724828e269e06cb69, sha256: 3653680437dc48d5afa8572968a1743156fe15c35cbad3dec67b98f363af5986)
+0032.376 (0) Saving backup status to database (elements: 8)
+0032.381 (0) Beginning creation of database dump (WordPress DB)
+0032.383 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+0032.609 (0) Table wp_options: Total expected rows (approximate): 240
+0032.673 (0) Table wp_options: Rows added in this batch (next record: 932): 236 (uncompressed bytes in this segment=604251) in 0.06 seconds
+0032.691 (0) Table wp_options: finishing file(s) (2, 65.1 KB)
+0032.699 (0) Table wp_users: Total expected rows (approximate): 1
+0032.704 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1390) in 0.00 seconds
+0032.731 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0032.753 (0) Table wp_usermeta: Total expected rows (approximate): 29
+0032.760 (0) Table wp_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=3716) in 0.01 seconds
+0032.787 (0) Table wp_usermeta: finishing file(s) (2, 1.7 KB)
+0032.805 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 8
+0032.813 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 207): 8 (uncompressed bytes in this segment=4599) in 0.01 seconds
+0032.831 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 1.1 KB)
+0032.846 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0032.851 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.00 seconds
+0032.885 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0032.891 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 2
+0032.896 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=706) in 0.00 seconds
+0032.925 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0032.958 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 18
+0032.965 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=2350) in 0.01 seconds
+0032.980 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 0.7 KB)
+0033.022 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0033.026 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=685) in 0.00 seconds
+0033.041 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0033.048 (0) Table wp_comments: Total expected rows (approximate): 1
+0033.054 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2222) in 0.00 seconds
+0033.069 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0033.076 (0) Table wp_links: Total expected rows (approximate): 0
+0033.128 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1310) in 0.05 seconds
+0033.142 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0033.149 (0) Table wp_postmeta: Total expected rows (approximate): 1187
+0033.271 (0) Table wp_postmeta: Rows added in this batch (next record: 1520): 1187 (uncompressed bytes in this segment=1149652) in 0.12 seconds
+0033.289 (0) Table wp_postmeta: finishing file(s) (2, 33.9 KB)
+0033.295 (0) Table wp_posts: Total expected rows (approximate): 251
+0033.413 (0) Table wp_posts: Rows added in this batch (next record: 285): 251 (uncompressed bytes in this segment=709587) in 0.12 seconds
+0033.431 (0) Table wp_posts: finishing file(s) (2, 29.6 KB)
+0033.438 (0) Table wp_term_relationships: Total expected rows (approximate): 9
+0033.445 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 9 (uncompressed bytes in this segment=808) in 0.01 seconds
+0033.461 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0033.468 (0) Table wp_term_taxonomy: Total expected rows (approximate): 4
+0033.476 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1020) in 0.01 seconds
+0033.490 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0033.497 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0033.501 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=658) in 0.00 seconds
+0033.516 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0033.522 (0) Table wp_terms: Total expected rows (approximate): 4
+0033.527 (0) Table wp_terms: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=848) in 0.00 seconds
+0033.542 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0033.576 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 5
+0033.582 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=1054) in 0.00 seconds
+0033.596 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0033.600 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_options.table.tmpr933.gz (1/17): adding to final database dump
+0033.632 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_options.table.gz (2/17): adding to final database dump
+0033.634 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_users.table.tmpr2.gz (3/17): adding to final database dump
+0033.636 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_users.table.gz (4/17): adding to final database dump
+0033.638 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_usermeta.table.tmpr30.gz (5/17): adding to final database dump
+0033.642 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_usermeta.table.gz (6/17): adding to final database dump
+0033.644 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_actions.table.tmpr208.gz (7/17): adding to final database dump
+0033.647 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_actions.table.gz (8/17): adding to final database dump
+0033.649 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/17): adding to final database dump
+0033.651 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_claims.table.gz (10/17): adding to final database dump
+0033.653 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_groups.table.tmpr3.gz (11/17): adding to final database dump
+0033.655 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_groups.table.gz (12/17): adding to final database dump
+0033.657 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_logs.table.tmpr19.gz (13/17): adding to final database dump
+0033.660 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_actionscheduler_logs.table.gz (14/17): adding to final database dump
+0033.663 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_commentmeta.table.tmpr0.gz (15/17): adding to final database dump
+0033.665 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_commentmeta.table.gz (16/17): adding to final database dump
+0033.667 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_comments.table.tmpr2.gz (17/17): adding to final database dump
+0033.669 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_comments.table.gz (18/17): adding to final database dump
+0033.671 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_links.table.tmpr0.gz (19/17): adding to final database dump
+0033.673 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_links.table.gz (20/17): adding to final database dump
+0033.675 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_postmeta.table.tmpr1521.gz (21/17): adding to final database dump
+0033.715 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_postmeta.table.gz (22/17): adding to final database dump
+0033.717 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_posts.table.tmpr286.gz (23/17): adding to final database dump
+0033.741 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_posts.table.gz (24/17): adding to final database dump
+0033.743 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_term_relationships.table.tmpr100001.gz (25/17): adding to final database dump
+0033.745 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_term_relationships.table.gz (26/17): adding to final database dump
+0033.747 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_term_taxonomy.table.tmpr5.gz (27/17): adding to final database dump
+0033.750 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_term_taxonomy.table.gz (28/17): adding to final database dump
+0033.752 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_termmeta.table.tmpr0.gz (29/17): adding to final database dump
+0033.754 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_termmeta.table.gz (30/17): adding to final database dump
+0033.756 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_terms.table.tmpr5.gz (31/17): adding to final database dump
+0033.758 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_terms.table.gz (32/17): adding to final database dump
+0033.760 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_wpforms_tasks_meta.table.tmpr6.gz (33/17): adding to final database dump
+0033.762 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db-table-wp_wpforms_tasks_meta.table.gz (34/17): adding to final database dump
+0033.832 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: finished writing out complete database file (104 KB)
+0033.865 (0) Total database tables backed up: 17 (backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz, size: 135661, sha1: 17218018cd0b1db16223620b274ff8116b36b27f, sha256: a4a648211fdec072f64d09b79efb7234f6fe8724af1f7911fea95c1e5b0e8669)
+0033.878 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0033.880 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0033.882 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0033.884 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0033.886 (0) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0033.887 (0) Saving backup history. Total backup size: 36.7 MB
+0033.893 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0033.900 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0033.903 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+0036.656 (0) Google Drive: quota usage: used=47.3 MB, total=15360 MB, available=15312.7 MB
+0036.658 (0) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0097.163 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0097.165 (0) An error condition has occurred for the first time during this job
+0097.460 (0) Google Drive: quota usage: used=47.3 MB, total=15360 MB, available=15312.7 MB
+0097.462 (0) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0099.380 (0) Googledrive chunked upload: 50.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 17.5 / 10)
+0102.398 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0102.413 (0) Google Drive: OK: Archive backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip uploaded in 4.95 seconds
+0102.417 (0) Recording as successfully uploaded: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip
+0102.425 (0) Deleting local file: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: OK
+0102.797 (0) Google Drive: quota usage: used=47.3 MB, total=15360 MB, available=15312.7 MB
+0102.799 (0) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0163.926 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0164.367 (0) Google Drive: quota usage: used=49.3 MB, total=15360 MB, available=15310.7 MB
+0164.369 (0) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0224.732 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0225.012 (0) Google Drive: quota usage: used=49.3 MB, total=15360 MB, available=15310.7 MB
+0225.014 (0) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0231.488 (0) Googledrive chunked upload: 100 % uploaded
+0231.501 (0) Google Drive: OK: Archive backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz uploaded in 6.48 seconds
+0231.505 (0) Recording as successfully uploaded: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz
+0231.513 (0) Deleting local file: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: OK
+0231.520 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0231.524 (0) Number of backup sets in history: 2; groups (db): 1
+0231.525 (0) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0231.527 (0) This backup set is the backup set just made, so will not be deleted.
+0231.527 (0) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0231.527 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0231.529 (0) Number of backup sets in history: 2; groups (files): 1
+0231.531 (0) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0231.531 (0) This backup set is the backup set just made, so will not be deleted.
+0231.532 (0) This backup set is the backup set just made, so will not be deleted.
+0231.533 (0) This backup set is the backup set just made, so will not be deleted.
+0231.533 (0) This backup set is the backup set just made, so will not be deleted.
+0231.534 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0231.536 (0) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0231.536 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0231.536 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0231.575 (0) Resume backup (1e37f3fe438b, 0): finish run
+0231.578 (0) Decremented the semaphore (fd) by 1
+0231.581 (0) Semaphore (fd) unlocked
+0231.582 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0231.588 (0) Rescheduling resumption 1: moving to 60 seconds from now (1618602993)
+0231.592 (0) No email will/can be sent - the user has not configured an email address.
+0231.594 (0) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0293.098 (1) Opened log file at time: Fri, 16 Apr 2021 19:56:34 +0000 on http://localhost/unatelier2tapissieres
+0293.102 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0293.104 (1) Free space on disk containing Updraft's temporary directory: 916448 MB
+0293.107 (1) Requesting backup semaphore lock (1e37f3fe438b)
+0293.112 (1) [Lock option (updraft_lock_1e37f3fe438b, wp_options) was created in the database] debug
+0293.115 (1) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired after initialising the database] info
+0293.119 (1) Backup run: resumption=1, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (293s ago), job type=backup, previous check-in=231.5s
+0293.123 (1) Scheduling a resumption (2) after 300 seconds (1618603294) in case this run gets aborted
+0293.128 (1) Checking if we have a zip executable available
+0293.129 (1) Creation of backups of directories: already finished
+0293.132 (1) Saving backup status to database (elements: 8)
+0293.139 (1) Database dump (WordPress DB): Creation was completed already
+0293.142 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+0293.148 (1) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0293.150 (1) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+0293.152 (1) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0293.154 (1) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0293.156 (1) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+0293.157 (1) Saving backup history. Total backup size: Unknown
+0293.163 (1) Requesting upload of the files that have not yet been successfully uploaded (3)
+0293.167 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0293.170 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+0294.706 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0294.708 (1) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0355.086 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0355.089 (1) An error condition has occurred for the first time during this job
+0355.472 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0355.475 (1) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0415.935 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0416.242 (1) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0416.244 (1) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0476.600 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0476.606 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0476.609 (1) Number of backup sets in history: 2; groups (db): 1
+0476.611 (1) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0476.613 (1) This backup set is the backup set just made, so will not be deleted.
+0476.613 (1) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0476.613 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0476.615 (1) Number of backup sets in history: 2; groups (files): 1
+0476.616 (1) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0476.617 (1) This backup set is the backup set just made, so will not be deleted.
+0476.618 (1) This backup set is the backup set just made, so will not be deleted.
+0476.619 (1) This backup set is the backup set just made, so will not be deleted.
+0476.619 (1) This backup set is the backup set just made, so will not be deleted.
+0476.620 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0476.622 (1) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0476.622 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0476.622 (1) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0476.628 (1) Resume backup (1e37f3fe438b, 1): finish run
+0476.632 (1) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+0476.634 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0476.638 (1) No email will/can be sent - the user has not configured an email address.
+0476.640 (1) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0606.971 (2) Opened log file at time: Fri, 16 Apr 2021 20:01:48 +0000 on http://localhost/unatelier2tapissieres
+0606.974 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 8M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0606.976 (2) Free space on disk containing Updraft's temporary directory: 916447.5 MB
+0606.980 (2) Requesting backup semaphore lock (1e37f3fe438b)
+0606.983 (2) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+0607.091 (2) Backup run: resumption=2, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (607s ago), job type=backup
+0607.097 (2) Scheduling a resumption (3) after 300 seconds (1618603608) in case this run gets aborted
+0607.186 (2) Checking if we have a zip executable available
+0607.188 (2) Creation of backups of directories: already finished
+0607.191 (2) Saving backup status to database (elements: 8)
+0607.203 (2) Database dump (WordPress DB): Creation was completed already
+0607.206 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+0607.213 (2) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0607.215 (2) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+0607.217 (2) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0607.220 (2) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0607.222 (2) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+0607.223 (2) Saving backup history. Total backup size: Unknown
+0607.229 (2) Requesting upload of the files that have not yet been successfully uploaded (3)
+0607.235 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0607.237 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+0608.350 (2) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0608.352 (2) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0668.733 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0668.735 (2) An error condition has occurred for the first time during this job
+0669.020 (2) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0669.023 (2) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0729.437 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0729.749 (2) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0729.751 (2) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0790.140 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0790.148 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0790.151 (2) Number of backup sets in history: 2; groups (db): 1
+0790.153 (2) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0790.155 (2) This backup set is the backup set just made, so will not be deleted.
+0790.155 (2) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0790.155 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0790.158 (2) Number of backup sets in history: 2; groups (files): 1
+0790.161 (2) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+0790.161 (2) This backup set is the backup set just made, so will not be deleted.
+0790.163 (2) This backup set is the backup set just made, so will not be deleted.
+0790.163 (2) This backup set is the backup set just made, so will not be deleted.
+0790.164 (2) This backup set is the backup set just made, so will not be deleted.
+0790.164 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0790.166 (2) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+0790.166 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0790.167 (2) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0790.172 (2) Resume backup (1e37f3fe438b, 2): finish run
+0790.176 (2) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+0790.179 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0790.183 (2) No email will/can be sent - the user has not configured an email address.
+0790.185 (2) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+0916.152 (3) Opened log file at time: Fri, 16 Apr 2021 20:06:57 +0000 on http://localhost/unatelier2tapissieres
+0916.155 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+0916.157 (3) Free space on disk containing Updraft's temporary directory: 916447.4 MB
+0916.159 (3) Requesting backup semaphore lock (1e37f3fe438b)
+0916.162 (3) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+0916.166 (3) Backup run: resumption=3, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (916s ago), job type=backup
+0916.170 (3) Scheduling a resumption (4) after 300 seconds (1618603917) in case this run gets aborted
+0916.175 (3) Checking if we have a zip executable available
+0916.177 (3) Creation of backups of directories: already finished
+0916.180 (3) Saving backup status to database (elements: 8)
+0916.188 (3) Database dump (WordPress DB): Creation was completed already
+0916.190 (3) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+0916.197 (3) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0916.199 (3) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+0916.201 (3) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0916.203 (3) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+0916.204 (3) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+0916.206 (3) Saving backup history. Total backup size: Unknown
+0916.212 (3) Requesting upload of the files that have not yet been successfully uploaded (3)
+0916.216 (3) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0916.218 (3) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+0917.412 (3) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0917.415 (3) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+0977.752 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0977.755 (3) An error condition has occurred for the first time during this job
+0978.052 (3) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+0978.054 (3) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1038.439 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1038.816 (3) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1038.819 (3) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1099.229 (3) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1099.235 (3) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1099.238 (3) Number of backup sets in history: 2; groups (db): 1
+1099.240 (3) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1099.242 (3) This backup set is the backup set just made, so will not be deleted.
+1099.242 (3) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1099.242 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1099.244 (3) Number of backup sets in history: 2; groups (files): 1
+1099.245 (3) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1099.246 (3) This backup set is the backup set just made, so will not be deleted.
+1099.247 (3) This backup set is the backup set just made, so will not be deleted.
+1099.248 (3) This backup set is the backup set just made, so will not be deleted.
+1099.249 (3) This backup set is the backup set just made, so will not be deleted.
+1099.249 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1099.251 (3) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1099.251 (3) This backup set remains non-empty (f=1/d=1); will retain in history
+1099.252 (3) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1099.258 (3) Resume backup (1e37f3fe438b, 3): finish run
+1099.260 (3) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+1099.262 (3) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1099.266 (3) No email will/can be sent - the user has not configured an email address.
+1099.268 (3) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1302.620 (4) Opened log file at time: Fri, 16 Apr 2021 20:13:24 +0000 on http://localhost/unatelier2tapissieres
+1302.623 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1302.625 (4) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+1302.626 (4) Requesting backup semaphore lock (1e37f3fe438b)
+1302.629 (4) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+1302.737 (4) Backup run: resumption=4, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (1303s ago), job type=backup
+1302.742 (4) Scheduling a resumption (5) after 300 seconds (1618604304) in case this run gets aborted
+1302.746 (4) Checking if we have a zip executable available
+1302.748 (4) Creation of backups of directories: already finished
+1302.750 (4) Saving backup status to database (elements: 8)
+1302.757 (4) Database dump (WordPress DB): Creation was completed already
+1302.760 (4) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+1302.766 (4) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1302.768 (4) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+1302.770 (4) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1302.772 (4) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+1302.773 (4) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+1302.775 (4) Saving backup history. Total backup size: Unknown
+1302.781 (4) Requesting upload of the files that have not yet been successfully uploaded (3)
+1302.785 (4) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1302.787 (4) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+1304.200 (4) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1304.203 (4) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1364.595 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1364.597 (4) An error condition has occurred for the first time during this job
+1364.979 (4) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1364.981 (4) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1425.337 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1425.650 (4) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1425.652 (4) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1486.002 (4) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1486.008 (4) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1486.010 (4) Number of backup sets in history: 2; groups (db): 1
+1486.012 (4) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1486.014 (4) This backup set is the backup set just made, so will not be deleted.
+1486.014 (4) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1486.014 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1486.016 (4) Number of backup sets in history: 2; groups (files): 1
+1486.018 (4) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1486.018 (4) This backup set is the backup set just made, so will not be deleted.
+1486.019 (4) This backup set is the backup set just made, so will not be deleted.
+1486.020 (4) This backup set is the backup set just made, so will not be deleted.
+1486.020 (4) This backup set is the backup set just made, so will not be deleted.
+1486.021 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1486.023 (4) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1486.023 (4) This backup set remains non-empty (f=1/d=1); will retain in history
+1486.023 (4) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1486.029 (4) Resume backup (1e37f3fe438b, 4): finish run
+1486.031 (4) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+1486.033 (4) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1486.037 (4) No email will/can be sent - the user has not configured an email address.
+1486.039 (4) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+1664.669 (5) Opened log file at time: Fri, 16 Apr 2021 20:19:26 +0000 on http://localhost/unatelier2tapissieres
+1664.672 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+1664.674 (5) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+1664.676 (5) Requesting backup semaphore lock (1e37f3fe438b)
+1664.678 (5) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+1664.682 (5) Backup run: resumption=5, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (1665s ago), job type=backup
+1664.686 (5) Scheduling a resumption (6) after 300 seconds (1618604666) in case this run gets aborted
+1664.690 (5) Checking if we have a zip executable available
+1664.692 (5) Creation of backups of directories: already finished
+1664.694 (5) Saving backup status to database (elements: 8)
+1664.701 (5) Database dump (WordPress DB): Creation was completed already
+1664.703 (5) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+1664.710 (5) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+1664.712 (5) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+1664.714 (5) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+1664.716 (5) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+1664.718 (5) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+1664.722 (5) Saving backup history. Total backup size: Unknown
+1664.728 (5) Requesting upload of the files that have not yet been successfully uploaded (3)
+1664.733 (5) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+1664.735 (5) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+1665.711 (5) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1665.713 (5) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1726.097 (5) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1726.102 (5) An error condition has occurred for the first time during this job
+1726.493 (5) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1726.495 (5) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1786.846 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1787.190 (5) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+1787.193 (5) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+1847.619 (5) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+1847.627 (5) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+1847.631 (5) Number of backup sets in history: 2; groups (db): 1
+1847.632 (5) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1847.634 (5) This backup set is the backup set just made, so will not be deleted.
+1847.635 (5) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1847.635 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1847.637 (5) Number of backup sets in history: 2; groups (files): 1
+1847.639 (5) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+1847.639 (5) This backup set is the backup set just made, so will not be deleted.
+1847.641 (5) This backup set is the backup set just made, so will not be deleted.
+1847.642 (5) This backup set is the backup set just made, so will not be deleted.
+1847.642 (5) This backup set is the backup set just made, so will not be deleted.
+1847.643 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1847.645 (5) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+1847.645 (5) This backup set remains non-empty (f=1/d=1); will retain in history
+1847.645 (5) Retain: saving new backup history (sets now: 2) and finishing retain operation
+1847.651 (5) Resume backup (1e37f3fe438b, 5): finish run
+1847.654 (5) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+1847.657 (5) There were errors in the uploads, so the 'resume' event is remaining scheduled
+1847.662 (5) No email will/can be sent - the user has not configured an email address.
+1847.665 (5) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2026.595 (6) Opened log file at time: Fri, 16 Apr 2021 20:25:28 +0000 on http://localhost/unatelier2tapissieres
+2026.598 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2026.599 (6) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+2026.602 (6) Requesting backup semaphore lock (1e37f3fe438b)
+2026.604 (6) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+2026.608 (6) Backup run: resumption=6, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (2027s ago), job type=backup
+2026.612 (6) Scheduling a resumption (7) after 300 seconds (1618605028) in case this run gets aborted
+2026.616 (6) Checking if we have a zip executable available
+2026.618 (6) Creation of backups of directories: already finished
+2026.620 (6) Saving backup status to database (elements: 8)
+2026.627 (6) Database dump (WordPress DB): Creation was completed already
+2026.629 (6) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+2026.636 (6) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2026.638 (6) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+2026.640 (6) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2026.641 (6) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+2026.643 (6) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+2026.644 (6) Saving backup history. Total backup size: Unknown
+2026.650 (6) Requesting upload of the files that have not yet been successfully uploaded (3)
+2026.654 (6) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2026.656 (6) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+2027.647 (6) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2027.649 (6) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2087.984 (6) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2087.987 (6) An error condition has occurred for the first time during this job
+2088.354 (6) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2088.356 (6) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2148.683 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2148.979 (6) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2148.981 (6) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2209.312 (6) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2209.318 (6) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2209.321 (6) Number of backup sets in history: 2; groups (db): 1
+2209.323 (6) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2209.324 (6) This backup set is the backup set just made, so will not be deleted.
+2209.325 (6) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2209.325 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2209.326 (6) Number of backup sets in history: 2; groups (files): 1
+2209.328 (6) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2209.328 (6) This backup set is the backup set just made, so will not be deleted.
+2209.330 (6) This backup set is the backup set just made, so will not be deleted.
+2209.331 (6) This backup set is the backup set just made, so will not be deleted.
+2209.331 (6) This backup set is the backup set just made, so will not be deleted.
+2209.332 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2209.333 (6) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2209.333 (6) This backup set remains non-empty (f=1/d=1); will retain in history
+2209.334 (6) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2209.340 (6) Resume backup (1e37f3fe438b, 6): finish run
+2209.342 (6) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+2209.344 (6) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2209.348 (6) No email will/can be sent - the user has not configured an email address.
+2209.350 (6) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2387.844 (7) Opened log file at time: Fri, 16 Apr 2021 20:31:29 +0000 on http://localhost/unatelier2tapissieres
+2388.040 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2388.042 (7) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+2388.044 (7) Requesting backup semaphore lock (1e37f3fe438b)
+2388.048 (7) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+2388.054 (7) Backup run: resumption=7, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (2388s ago), job type=backup
+2388.060 (7) Scheduling a resumption (8) after 300 seconds (1618605389) in case this run gets aborted
+2388.067 (7) Checking if we have a zip executable available
+2388.070 (7) Creation of backups of directories: already finished
+2388.074 (7) Saving backup status to database (elements: 8)
+2388.086 (7) Database dump (WordPress DB): Creation was completed already
+2388.092 (7) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+2388.108 (7) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2388.111 (7) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+2388.117 (7) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2388.120 (7) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+2388.123 (7) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+2388.126 (7) Saving backup history. Total backup size: Unknown
+2388.134 (7) Requesting upload of the files that have not yet been successfully uploaded (3)
+2388.142 (7) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2388.145 (7) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+2389.164 (7) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2389.166 (7) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2449.535 (7) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2449.537 (7) An error condition has occurred for the first time during this job
+2449.852 (7) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2449.854 (7) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2451.412 (7) Googledrive chunked upload: 16.8 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 13.8 / 4)
+2511.422 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2511.699 (7) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2511.702 (7) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2572.078 (7) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2572.084 (7) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2572.089 (7) Number of backup sets in history: 2; groups (db): 1
+2572.091 (7) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2572.095 (7) This backup set is the backup set just made, so will not be deleted.
+2572.095 (7) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2572.096 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2572.098 (7) Number of backup sets in history: 2; groups (files): 1
+2572.101 (7) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2572.101 (7) This backup set is the backup set just made, so will not be deleted.
+2572.103 (7) This backup set is the backup set just made, so will not be deleted.
+2572.103 (7) This backup set is the backup set just made, so will not be deleted.
+2572.104 (7) This backup set is the backup set just made, so will not be deleted.
+2572.106 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2572.108 (7) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2572.108 (7) This backup set remains non-empty (f=1/d=1); will retain in history
+2572.109 (7) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2572.117 (7) Resume backup (1e37f3fe438b, 7): finish run
+2572.120 (7) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+2572.123 (7) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2572.127 (7) No email will/can be sent - the user has not configured an email address.
+2572.129 (7) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+2748.592 (8) Opened log file at time: Fri, 16 Apr 2021 20:37:30 +0000 on http://localhost/unatelier2tapissieres
+2748.594 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+2748.596 (8) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+2748.599 (8) Requesting backup semaphore lock (1e37f3fe438b)
+2748.601 (8) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+2748.606 (8) Backup run: resumption=8, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (2749s ago), job type=backup, previous check-in=63.6s
+2748.610 (8) Scheduling a resumption (9) after 300 seconds (1618605750) in case this run gets aborted
+2748.615 (8) Checking if we have a zip executable available
+2748.616 (8) Creation of backups of directories: already finished
+2748.619 (8) Saving backup status to database (elements: 8)
+2748.626 (8) Database dump (WordPress DB): Creation was completed already
+2748.629 (8) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+2748.635 (8) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+2748.637 (8) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+2748.639 (8) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+2748.641 (8) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+2748.642 (8) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+2748.644 (8) Saving backup history. Total backup size: Unknown
+2748.650 (8) Requesting upload of the files that have not yet been successfully uploaded (3)
+2748.654 (8) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+2748.656 (8) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+2749.710 (8) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2749.712 (8) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2810.241 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2810.243 (8) An error condition has occurred for the first time during this job
+2810.651 (8) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2810.653 (8) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2810.796 (8) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: upload already began; attempting to resume from byte 2883583
+2870.802 (8) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2871.159 (8) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+2871.161 (8) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+2931.514 (8) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+2931.520 (8) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+2931.523 (8) Number of backup sets in history: 2; groups (db): 1
+2931.525 (8) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2931.527 (8) This backup set is the backup set just made, so will not be deleted.
+2931.527 (8) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2931.527 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2931.529 (8) Number of backup sets in history: 2; groups (files): 1
+2931.530 (8) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+2931.530 (8) This backup set is the backup set just made, so will not be deleted.
+2931.532 (8) This backup set is the backup set just made, so will not be deleted.
+2931.533 (8) This backup set is the backup set just made, so will not be deleted.
+2931.533 (8) This backup set is the backup set just made, so will not be deleted.
+2931.534 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2931.535 (8) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+2931.536 (8) This backup set remains non-empty (f=1/d=1); will retain in history
+2931.536 (8) Retain: saving new backup history (sets now: 2) and finishing retain operation
+2931.542 (8) Resume backup (1e37f3fe438b, 8): finish run
+2931.544 (8) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+2931.546 (8) There were errors in the uploads, so the 'resume' event is remaining scheduled
+2931.551 (8) No email will/can be sent - the user has not configured an email address.
+2931.552 (8) La sauvegarde ne s'est pas terminée; une relance de la procédure est prévue
+3110.591 (9) Opened log file at time: Fri, 16 Apr 2021 20:43:32 +0000 on http://localhost/unatelier2tapissieres
+3110.593 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.53 WP: 5.7.1 PHP: 7.3.5 (apache2handler, Windows NT THE-HOUSE-OF-PA 10.0 build 19041 (Windows 10) AMD64) MySQL: 5.7.26 WPLANG: fr_FR Server: Apache/2.4.39 (Win64) PHP/7.3.5 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 11.9M | 2M) multisite: N openssl: OpenSSL 1.1.1b  26 Feb 2019 mcrypt: N LANG:  ZipArchive::addFile: Y
+3110.595 (9) Free space on disk containing Updraft's temporary directory: 916444.7 MB
+3110.597 (9) Requesting backup semaphore lock (1e37f3fe438b)
+3110.600 (9) [Lock (updraft_lock_1e37f3fe438b, wp_options) acquired] info
+3110.604 (9) Backup run: resumption=9, nonce=1e37f3fe438b, file_nonce=1e37f3fe438b begun at=1618602701 (3111s ago), job type=backup
+3110.608 (9) The current run is resumption number 9, and there was nothing useful done on the last run (last useful run: 7) - will not schedule a further attempt until we see something useful happening this time
+3110.612 (9) Scheduling a resumption (10) after 300 seconds (1618606112); but the job will then be aborted unless something happens this time
+3110.617 (9) Creation of backups of directories: already finished
+3110.619 (9) Saving backup status to database (elements: 8)
+3110.626 (9) Database dump (WordPress DB): Creation was completed already
+3110.628 (9) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER
+3110.634 (9) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+3110.636 (9) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-themes.zip: themes: This file has already been successfully uploaded
+3110.638 (9) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+3110.639 (9) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: others: This file has not yet been successfully uploaded: will queue
+3110.641 (9) backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-db.gz: db: This file has already been successfully uploaded
+3110.643 (9) Saving backup history. Total backup size: Unknown
+3110.648 (9) Requesting upload of the files that have not yet been successfully uploaded (3)
+3110.652 (9) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+3110.654 (9) Beginning dispatch of backup to remote (googledrive) (instance identifier s-cbdccfa1f2da9efa6f1bab726bc6fd16)
+3111.722 (9) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+3111.724 (9) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+3172.182 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3172.185 (9) An error condition has occurred for the first time during this job
+3172.560 (9) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+3172.562 (9) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+3172.678 (9) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-uploads.zip: upload already began; attempting to resume from byte 3670015
+3232.687 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3233.087 (9) Google Drive: quota usage: used=49.4 MB, total=15360 MB, available=15310.6 MB
+3233.090 (9) Google Drive: backup_2021-04-16-2151_Un_atelier_2_tapissires_1e37f3fe438b-others.zip: Attempting to upload to Google Drive (into folder id: 1W9oG24AUoxwQfveh6E8wP5SyzC4f2yvp)
+3294.319 (9) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: D:\wamp64\www\unatelier2tapissieres\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+3294.325 (9) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+3294.327 (9) Number of backup sets in history: 2; groups (db): 1
+3294.329 (9) Examining (for databases) backup set with group_id=0, nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+3294.331 (9) This backup set is the backup set just made, so will not be deleted.
+3294.331 (9) Examining (for databases) backup set with group_id=0, nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+3294.331 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3294.333 (9) Number of backup sets in history: 2; groups (files): 1
+3294.335 (9) Examining (for files) backup set with nonce=1e37f3fe438b, datestamp=1618602701 (Apr 16 2021 19:51:41)
+3294.335 (9) This backup set is the backup set just made, so will not be deleted.
+3294.336 (9) This backup set is the backup set just made, so will not be deleted.
+3294.337 (9) This backup set is the backup set just made, so will not be deleted.
+3294.338 (9) This backup set is the backup set just made, so will not be deleted.
+3294.338 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3294.340 (9) Examining (for files) backup set with nonce=c7bc298aa3ff, datestamp=1618507086 (Apr 15 2021 17:18:06)
+3294.340 (9) This backup set remains non-empty (f=1/d=1); will retain in history
+3294.341 (9) Retain: saving new backup history (sets now: 2) and finishing retain operation
+3294.346 (9) Resume backup (1e37f3fe438b, 9): finish run
+3294.348 (9) [Lock option (updraft_lock_1e37f3fe438b, wp_options) released] info
+3294.350 (9) The resumption is being cancelled, as it was only scheduled to enable error reporting, which can be performed now
+3294.354 (9) No email will/can be sent - the user has not configured an email address.
+3294.356 (9) La tentative de sauvegarde est terminée, apparemment sans succès
